@@ -3,6 +3,7 @@ _gh_pages
 _site
 .ruby-version
 .jekyll-cache
+.gitignore
 
 # Numerous always-ignore extensions
 *.diff
@@ -41,3 +42,5 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
+Gemfile.lock
+commit.sh
