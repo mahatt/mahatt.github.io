@@ -4,26 +4,26 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+Hey there! 
 </p>
+ 
+Yet Another Engineer from Engineering factory! 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Worked in MNCs like <b>AMD</b>, <b>Progress</b> and startups
+including <b>Thinci (Blaize)</b>, <b>Shoppitron</b>. 
 
-There are currently two themes built on Poole:
+Love to build tools. Sold tool.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Made my first softare sales with XML-CML to Visual Representation Software with Graphs.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Experience of working on GPU,FPGA Hardwares, building Emulation architectures and Compiler
+support with LLVM <3.
 
-## Setup
+Mostly write about findings,hacks, scripts,scratchpad ideas.
 
-Some fun facts about the setup of this project include:
+* [Linkedin](https://linkedin.com/maheshattarde)
+* [Twitter](https://twitter.com/yehhochukahai)
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Checkout what is on Reading list!
 
 Thanks for reading!
