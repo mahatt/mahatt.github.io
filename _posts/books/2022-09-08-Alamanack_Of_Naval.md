@@ -6,7 +6,7 @@ title: Almanack of Naval Ravikant
 ## Ideas from Almanack of Naval Ravikant
 Naval is deep thinker, he has captured concepts, application of concepts and consequences of application in real world.
 
-Original Tweets https://twitter.com/naval/status/1002103360646823936
+[Original Tweets](https://twitter.com/naval/status/1002103360646823936)
 
 ### Wealth
 * Money is Paid for skill not for what you do
