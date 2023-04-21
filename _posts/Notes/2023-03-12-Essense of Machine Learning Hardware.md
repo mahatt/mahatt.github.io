@@ -1,3 +1,7 @@
+---
+layout: post
+title: "[Musing] Essense of machine learning hardware" 
+---
 
 Here are few design considerations for machine learning asic. Design traits will achieve efficiency/effectiveness per watts.
 (Tacit Ideas) 

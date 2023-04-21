@@ -4,7 +4,7 @@ tagline:             'Blog'
 description:         'Hi There,<p> I am Software Engineer with Masters in CSE, IIIT Hyderabad, Served in Startups,MNC</p> <p>Here are few thoughts logged '
 url:                 http://mahatt.github.io/
 baseurl:             ''
-paginate:            2
+paginate:            20
 permalink:           pretty
 
 # About/contact

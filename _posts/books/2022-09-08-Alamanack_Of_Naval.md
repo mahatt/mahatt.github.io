@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Almanack of Naval Ravikant
+title: "[Book] Almanack of Naval Ravikant"
 ---
 
 ## Ideas from Almanack of Naval Ravikant

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CppCon Notes on Rules for Radical Cpp Engineers - Improve Your C++ Code, Team, & Organization
+title: "[CppCon Notes] Rules for Radical Cpp Engineers - Improve Your C++ Code, Team, & Organization"
 ---
 
 * [Original Link](https://www.youtube.com/watch?v=ady2mUIQpt4)
