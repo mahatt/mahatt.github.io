@@ -23,7 +23,8 @@ title: Awesome List
 ### LLVM
 * [LLVM Banglore Social](https://www.youtube.com/playlist?list=PLxNPSjHT5qvvfORx__OYrXM6pUK8aR8j0) 
 * [LLVM MLIR](https://www.youtube.com/playlist?list=PLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5)
-
+* [AliveToolkit](https://github.com/AliveToolkit/alive2)
+* [LLVM Contribution Guide](https://developers.redhat.com/articles/2022/12/20/how-contribute-llvm)
 
 ##  Database Related
 * [SQL to JIT](https://www.cs.cornell.edu/courses/cs6120/2020fa/blog/db-compiler/)
@@ -31,16 +32,40 @@ title: Awesome List
 * (https://www.cs.cornell.edu/courses/cs6120/2020fa/)
 * [xdsl](https://xdsl.dev/)
 * [Postgres Internals book](https://edu.postgrespro.com/postgresql_internals-14_en.pdf)
+* [Inside Postgresql](https://www.postgresql.fastware.com/blog/inside-logical-replication-in-postgresql)
+* [Postgres Book](https://www.interdb.jp/pg/index.html)
+* [DB-SQL JIT ML](https://linmagit.github.io/)
 
 ## Blogs
+* [grit stories](https://thegritstories.com/)
+* [Startup concepts](https://ajuniorvc.com/)
+* [farnam](https://fs.blog/why-write/)
+* [Pragmatic Engineer](https://blog.pragmaticengineer.com/)
+* [Software Engineering Tidbits](https://www.softwareengineeringtidbits.com/)
+* [Online Research Paper Search](https://searchthearxiv.com/)
+* [C4 Model](https://c4model.com)
+
 
 ### Semiconductor
 * [Blah blah stuff](https://threedots.ovh/blog/)
-* [Chips (https://chipsandcheese.com/)
-* [Twitter Thread by semimeme(https://twitter.com/realmemes6)
-* ()
+* [Chips] (https://chipsandcheese.com/)
+* [Twitter Thread by semimeme](https://twitter.com/realmemes6)
+* [Semi News](https://semiaccurate.com/)
+* [Semi News](https://www.semianalysis.com/)
+* [Technology Rants](https://twitter.com/IanCutress)
+* [Semi Report](https://semiengineering.com/special-reports/)
+
+
 ## Product Managment Folks
-* Shreyas Doshi
+* Everything Shreyas Doshi
+  + [Linkedin Posts](https://www.linkedin.com/today/author/shreyasdoshi?trk=public_post_follow-articles)
+  + [Learnings of Shreyas](https://www.theproductfolks.com/blog/takeaways-from-shreyass-15-years-of-journey-as-pm-in-silicon-valley)
+  + [Weekend Seminar Notes](https://hollow-tablecloth-208.notion.site/Shreyas-Doshi-PM-Habits-for-getting-sh-t-done-and-more-6beb64364e0a438fad7c3cac6385b592) 
+  + [how-to-get-into-product-management](https://www.lennysnewsletter.com/p/how-to-get-into-product-management)
+  + [Collection of resources](https://www.theproductfolks.com/learn-product-management-resources)
+
+* [George](https://nurijanian.substack.com/)  
+* [Sanjeev Product Mgmt](https://sanjeevnc.com/)
 
 ## Info-tainers
 * Sahil Bloom
