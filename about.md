@@ -12,7 +12,7 @@ Myself Mahesh.
 
 
 ## Woof Woof!
-* Love to build tools. Sold tools for money :P .
+* Love to build tools. Sold tools for money, end-2-end aquire-build-shipment :P .
 Made my first softare sales with XML-CML to Visual Representation Software with Graphs.
 
 Later few attempts but not worthy of money!
@@ -29,9 +29,16 @@ Love Science, Applied Science and Engineering, sometimes math. ;)
  
 ### High Performance Computing
 Did Research in Compiler Technologies Implemented 4 Patents till now. 
-* Worked on FPGA hardware  and Emulation Technology.  Filed 2 Patents @ AMD-Xilinx.
+* AMD - Xilinx
+  + Worked on FPGA hardware  and Emulation Technology.  
+  + Filed 2 Patents @ AMD-Xilinx for Speeding up emulation with Transaction MOdelling Compilers using LLVM
+  + Presented Xilinx Conference - Transactional modelling with HLS
+  + Participated in Hackathon - Dynamic Scheduling of Compute Nodes with Graph Dispatch runtime
+  + Participated in Open-2-Public Hackathon - Workload modelling for Covid cases tracing using H3 Index with FPGA Modelling
+
 * Worked on GPU hardware Compiler @ Blaize (Startup) for it's first release from scratch.
 * Worked on SQL Engine @ Progress Software.
+  + Added Dynamic sample statistics and change data capture bug fixing
 * Co-ordinated group of students for fast execution of dataframe analytics with LLVM JIT
 
 ## Academics
