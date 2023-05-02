@@ -71,6 +71,10 @@ title: Awesome List
 * Sahil Bloom
 * Andrej Karpathi
 
+## Podcast 
+* [Nikhlyl Singhal on Career and PM](https://www.skip.community/)
+
+
 ## Codeforce Problems with domain compiler and Database
 * [Code Force Scheduling Buffer](https://codeforces.com/contest/1813/problem/A)
 * [Task Scheduling and Data Assignment](https://codeforces.com/blog/entry/107590)
