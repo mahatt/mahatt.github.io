@@ -14,7 +14,7 @@ Continuation on Essense of Machine Learning Hardware,....
 ### Components of ML program?
 
 * Loop All dimentions and MAC input and weight to produce output
-'''
+```
 kernel void convol1D(int  * in, int * out, int * filter){
 	for(int l = 0 ; l < N ; l++)
 	   for(int k = 0 ; k < N ; k++)
@@ -23,7 +23,7 @@ kernel void convol1D(int  * in, int * out, int * filter){
 				out[l][k] = out[l][k] + in[l+r][k+i] * filter [j][i];	
 
 }
-'''
+```
 
 * This is computing one by one row
 * We could send  complete row to compute , second forloop by N/group_size aka "Scheduling" 
