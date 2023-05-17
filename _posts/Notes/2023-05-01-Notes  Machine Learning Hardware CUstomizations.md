@@ -17,7 +17,6 @@ Continuation on Essense of Machine Learning Hardware,....
 
 {% highlight cpp %}
 
-
 kernel void convol1D(int  * in, int * out, int * filter){
 	for(int l = 0 ; l < N ; l++)
 	   for(int k = 0 ; k < N ; k++)

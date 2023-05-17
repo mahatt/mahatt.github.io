@@ -62,8 +62,8 @@ title: Awesome List
   + [Learnings of Shreyas](https://www.theproductfolks.com/blog/takeaways-from-shreyass-15-years-of-journey-as-pm-in-silicon-valley)
   + [Weekend Seminar Notes](https://hollow-tablecloth-208.notion.site/Shreyas-Doshi-PM-Habits-for-getting-sh-t-done-and-more-6beb64364e0a438fad7c3cac6385b592) 
   + [how-to-get-into-product-management](https://www.lennysnewsletter.com/p/how-to-get-into-product-management)
-  + [Collection of resources](https://www.theproductfolks.com/learn-product-management-resources)
-
+* [Collection of resources](https://www.theproductfolks.com/learn-product-management-resources)
+* [Articles,Tools,Podcast...](https://theproductmanager.com/)
 * [George](https://nurijanian.substack.com/)  
 * [Sanjeev Product Mgmt](https://sanjeevnc.com/)
 
