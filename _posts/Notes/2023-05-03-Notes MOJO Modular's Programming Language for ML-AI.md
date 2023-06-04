@@ -19,6 +19,8 @@ title: "[Notes] MOJO Modular's AI Programmig Langauge"
 # MOJO Analysis from Principles of Programming Langauge
 * It is python, but with system programming features and restrictions
 
+## Type System
+
 ## Expressions 
 *  Uses concept of Value Binding in lambda scope
 *  Immutable  Declartion  "let"  - Initial values are computed before any of variables become bound
@@ -35,9 +37,22 @@ title: "[Notes] MOJO Modular's AI Programmig Langauge"
 * Representation low level programming abstraction 
 * python: def is dynamic with mutable arguments,defined  local variables and no scope enforced
 * Mojo:fn  , Arguments are immutable ( concept of let), explicit type defination , all locals are explicit
-* __copyinit__  and __moveinit__ as copy and move constructors
- 
-## TDOO
+* __copyinit__  and __moveinit__ as copy and move constructors for manual memory managment like low level sytem programming
+
+## Compile Time Template Programming
+
+
+
+## Notes from Elsewhere
+* Goodies from programming Lang
+    + English readability of Python
+    + Memory Safety of Rust
+    + Hardware level control of C
+    + Zero cost abstractions of C++
+    + Metaprogramming and generics simplicity of Zig
+    + Parallelization simplicity of Go
 
 ## References 
 * [Mojo doc](https://docs.modular.com/mojo/notebooks/)
+* [Launch Video](https://www.youtube.com/watch?v=6GvB5lZJqcE&ab_channel=JeremyHoward)
+* [MojoDev](https://mojodojo.dev/blog/2023-05-22-mojo-first-impressions.html#launch)
