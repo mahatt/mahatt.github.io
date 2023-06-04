@@ -18,4 +18,12 @@ title:  Debugging with GDB
 *  [GCC STL Pretty Printer Implemenation](https://github.com/gcc-mirror/gcc/tree/releases/gcc-6.3.0/libstdc%2B%2B-v3/python/libstdcxx/v6)
 *  [Awesome GDB]()
 
+
+### Good Sources
+* [Printf style debugging](https://github.com/sharkdp/dbg-macro)
+* [GDB helper scripts](https://github.com/tromey/gdb-helpers)
+* [GDB python scripts commands](https://github.com/vuvova/gdb-tools)
+* [python plotting in GDB](https://github.com/X-Neon/gdbplotlib)
+* [Bulk posts for GDB](https://github.com/MattPD/cpplinks/blob/master/debugging.md#software-engineering)
+
 Happy Hacking

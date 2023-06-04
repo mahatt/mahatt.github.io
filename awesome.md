@@ -5,10 +5,12 @@ title: Awesome List
 
 ## Compiler Folks
 * [Eli Bendersky](https://eli.thegreenplace.net/) LLVM Posts
+* [Vikas Adve](https://vikram.cs.illinois.edu/)
 * [Chris Lattner](https://nondot.org/sabre/)
 * [Tobiass](http://polyhedral.info/software) polyhydral
 * [Samar Narsinghe](https://www.youtube.com/@samanamarasinghe3512) got Cool Ideas!
 * [Shashank Prasanna](https://medium.com/@shashankprasanna) DNN Compiler and Hardware
+* [Saugata Ghose](https://ghose.cs.illinois.edu/) Complex Workload–DRAM Interactionns
 
 ## Compiler Related
 * [Habana](https://github.com/HabanaAI/tpc_llvm)
@@ -25,6 +27,7 @@ title: Awesome List
 * [LLVM MLIR](https://www.youtube.com/playlist?list=PLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5)
 * [AliveToolkit](https://github.com/AliveToolkit/alive2)
 * [LLVM Contribution Guide](https://developers.redhat.com/articles/2022/12/20/how-contribute-llvm)
+* [allvm](https://github.com/allvm/allvm-tools)
 
 ##  Database Related
 * [SQL to JIT](https://www.cs.cornell.edu/courses/cs6120/2020fa/blog/db-compiler/)
@@ -81,3 +84,9 @@ title: Awesome List
 
 ## Open Source
 * [Open Source Explorer](https://ossinsight.io/explore/)
+
+## Cpp
+* [Bloomberge Large Scale C++](https://bloomberg.github.io/)
+* [Some C++ things](https://blog.the-pans.com/)
+## Bussiness
+* [Marketing For Engineers](https://github.com/goabstract/Marketing-for-Engineers)
