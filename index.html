@@ -73,6 +73,24 @@ title: Home
   {% endfor %}
 </div>
 
+<div class="line"></div>
+<h3>Papers | Compiler | Anything Fancy!</h3>
+<div class="">  <!-- post -->
+  {% for post in paginator.posts %}
+    {% if post.title contains "Paper"  %}
+  <div class="">   <!-- post -->
+    <span class="post-title">
+      <span class="post-title"></span>
+      <a href="{{ post.url | absolute_url }}">
+        {{ post.date | date_to_string }} : {{ post.title }}
+      </a>
+    </span>
+    <!-- {{ post.content }} -->
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>

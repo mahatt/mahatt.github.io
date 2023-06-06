@@ -47,6 +47,8 @@ title: "[Notes] MOJO Modular's AI Programmig Langauge"
 * Goodies from programming Lang
     + English readability of Python
     + Memory Safety of Rust
+        - Correctness , All memory is Allocated with correct size and type
+        - No Leaks
     + Hardware level control of C
     + Zero cost abstractions of C++
     + Metaprogramming and generics simplicity of Zig
