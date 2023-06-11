@@ -73,6 +73,7 @@ title: Awesome List
 ## Info-tainers
 * Sahil Bloom
 * Andrej Karpathi
+* [Micah Lerner Blog](https://www.micahlerner.com/)
 
 ## Podcast 
 * [Nikhlyl Singhal on Career and PM](https://www.skip.community/)
@@ -88,5 +89,10 @@ title: Awesome List
 ## Cpp
 * [Bloomberge Large Scale C++](https://bloomberg.github.io/)
 * [Some C++ things](https://blog.the-pans.com/)
+
+* [Copy Elison](https://shaharmike.com/cpp/rvo/)
+
+
+
 ## Bussiness
 * [Marketing For Engineers](https://github.com/goabstract/Marketing-for-Engineers)
