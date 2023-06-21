@@ -47,7 +47,7 @@ title: Awesome List
 * [Software Engineering Tidbits](https://www.softwareengineeringtidbits.com/)
 * [Online Research Paper Search](https://searchthearxiv.com/)
 * [C4 Model](https://c4model.com)
-
+* [GPU Programming](https://enccs.github.io/gpu-programming/)
 
 ### Semiconductor
 * [Blah blah stuff](https://threedots.ovh/blog/)
