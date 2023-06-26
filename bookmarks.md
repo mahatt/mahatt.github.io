@@ -13,7 +13,8 @@ Notes to myself
 *  Skills of a successful software engineer (200)
 *  Working effectively with legacy code
 *  Story Telling With Data  - DONE
-
+*  Never split difference
+* 
 
 ### Deep
 *  Inspired 
@@ -29,7 +30,18 @@ Notes to myself
 * CMake Best Practices  - DONE 
 * C++ Template Complete Guide   - DONE
 * Scheduling Theory,Algorithms and Systems
+* Beautiful Code  (650)
 
-
-* Genetic Algorith and Machine Learning for programmers (240)
 * Grokking Deep Learning
+* Game Engine Architecture
+* Pattern Oriented Software Architecture
+* Working with Legacy Code
+
+
+### AI Good Reads
+* Building Decision Support Systems  Mark Wallace  (230)
+* Genetic Algorith and Machine Learning for programmers (240)
+* Approaching (Almost) Any Machine Learning Problem (301)
+
+### Semiconductor
+* Fabless The Transformation of The Semiconductor Industry (230)

@@ -48,6 +48,7 @@ title: Awesome List
 * [Online Research Paper Search](https://searchthearxiv.com/)
 * [C4 Model](https://c4model.com)
 * [GPU Programming](https://enccs.github.io/gpu-programming/)
+* [ANN Vizuals](https://distill.pub/)
 
 ### Semiconductor
 * [Blah blah stuff](https://threedots.ovh/blog/)
@@ -57,7 +58,7 @@ title: Awesome List
 * [Semi News](https://www.semianalysis.com/)
 * [Technology Rants](https://twitter.com/IanCutress)
 * [Semi Report](https://semiengineering.com/special-reports/)
-
+* [Advances in COmputers](http://you_know_path)
 
 ## Product Managment Folks
 * Everything Shreyas Doshi
