@@ -14,7 +14,7 @@ Notes to myself
 *  Working effectively with legacy code
 *  Story Telling With Data  - DONE
 *  Never split difference
-* 
+
 
 ### Deep
 *  Inspired 
