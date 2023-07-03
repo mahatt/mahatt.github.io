@@ -4,7 +4,7 @@ tagline:             'Blog'
 description:         'Hi There,<p> I am Software Engineer with Masters in CSE, IIIT Hyderabad, Served in Startups,MNC</p> <p>Here are few thoughts logged '
 url:                 http://mahatt.github.io/
 baseurl:             ''
-paginate:            20
+paginate:            40
 permalink:           pretty
 
 # About/contact
@@ -18,3 +18,4 @@ plugins:
   - jekyll-paginate
 
 paginate_path: "/blog/page:num/"
+plugins_dir: ./_plugins

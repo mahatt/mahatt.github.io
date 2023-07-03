@@ -46,12 +46,19 @@ Did Research in Compiler Technologies Implemented 4 Patents till now.
 * Post Graduated in 2014 from IIIT Hyderabad with MTech in Computer Science Engineering
 * other Certifications
 
+### Projects
+* Bachelors : Iteractive public interfaces for hyperlocal data search (Final Year project)
+* Bachelors : Embedded system design with examples (3rd year presentation)
+* Masters   : Wikipedia Search Engine (Information retrieval and Extraction Project)
+* Masters   : Energyplus task-level speedup using distributed dropbox filesytem
+
+
 * [Linkedin](https://linkedin.com/maheshattarde)
 * [Twitter](https://twitter.com/yehhochukahai)
 * [Dev.To](https://dev.to/maheshattarde)
 * [StackOverflow](https://stackoverflow.com/users/4021785/mahesh-attarde)
 
-Checkout what is on Reading list!
-Checkout what is on Notes list!
+### Reading list!
+### Notes list!
 
 Thanks for reading!

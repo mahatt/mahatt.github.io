@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "[Paper] MLIR: A Compiler Infrastructure for the End of
-Moore’s Law" 
+title: "[Paper] MLIR A Compiler Infrastructure for the End of Moores Law" 
 ---
 
 * target Composibility of compiler outputs

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Notebooks][Machine Learning] Neural Styling"
+title: "[Notebook][Machine Learning] Neural Styling"
 ---
 
 # Redirect
