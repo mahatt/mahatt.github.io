@@ -11,6 +11,7 @@ title: Awesome List
 * [Samar Narsinghe](https://www.youtube.com/@samanamarasinghe3512) got Cool Ideas!
 * [Shashank Prasanna](https://medium.com/@shashankprasanna) DNN Compiler and Hardware
 * [Saugata Ghose](https://ghose.cs.illinois.edu/) Complex Workload–DRAM Interactionns
+* [Albert Cohen](https://research.google/people/106208/) Google Compiler
 
 ## Compiler Related
 * [Habana](https://github.com/HabanaAI/tpc_llvm)
@@ -52,7 +53,7 @@ title: Awesome List
 
 ### Semiconductor
 * [Blah blah stuff](https://threedots.ovh/blog/)
-* [Chips] (https://chipsandcheese.com/)
+* [Chips](https://chipsandcheese.com/)
 * [Twitter Thread by semimeme](https://twitter.com/realmemes6)
 * [Semi News](https://semiaccurate.com/)
 * [Semi News](https://www.semianalysis.com/)

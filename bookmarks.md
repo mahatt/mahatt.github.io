@@ -45,3 +45,33 @@ Notes to myself
 
 ### Semiconductor
 * Fabless The Transformation of The Semiconductor Industry (230)
+
+
+### Compiler Books
+* Best Practical Book  Modern Compiler Implementation in C, ANDREW W. APPEL
+* Programming Language Pragmatics
+
+
+## Research Papers , Review Articles
+### Programming Lang
+* [The Development of the C Language](https://www.bell-labs.com/usr/dmr/www/chist.pdf)
+* [Why C++ is not just an Object-Oriented Programming Language](https://www.stroustrup.com/oopsla.pdf)
+* [On the Expressive Power of Programming Languages](https://jgbm.github.io/eecs762f19/papers/felleisen.pdf)
+
+### Compilers, Interpreters
+
+* [One VM to Rule Them All](http://lafo.ssw.uni-linz.ac.at/papers/2013_Onward_OneVMToRuleThemAll.pdf)
+* [An Incremental Approach to Compiler Construction, 24 step formula](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+* Machine Learning in Compilers Zheng Wang, Micha l O’BOyle
+* A Survey on Compiler Autotuning using Machine Learning
+* The Deep Learning Compiler A Comprehensive Survey
+* [Efficiently computing static single assignment form and the control dependence graph](https://dl.acm.org/doi/10.1145/115372.115320)
+
+* [isl: An Integer Set Libraryfor the Polyhedral Model,Sven Verdoolaege]
+* [Code Generation in the Polyhedral Model Is Easier Than You Think](https://hal.science/hal-00017260/file/bastoul2004code.pdf)
+* [The Polyhedral Model Is More Widely Applicable Than You Think](https://web.cs.ucla.edu/~pouchet/doc/cc-article.10.pdf)
+* [Polly - Polyhedral optimization in LLVM](https://web.cs.ucla.edu/~pouchet/doc/impact-article.11.pdf)
+* [Polly Working in LLVM](https://polly.llvm.org/publications/grosser-diploma-thesis.pdf)
+* The increasing significance of intermediate representations in compilers, ACM Queue
+* [A Unified Theory of Garbage Collection](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf)
+
