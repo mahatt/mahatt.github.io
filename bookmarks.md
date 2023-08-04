@@ -37,6 +37,9 @@ Notes to myself
 * Pattern Oriented Software Architecture
 * Working with Legacy Code
 
+### Finance 
+* Financial Intelligence HBR (304)
+* VALUATION MEASURING AND MANAGING THE VALUE OF COMPANIES (750)
 
 ### AI Good Reads
 * Building Decision Support Systems  Mark Wallace  (230)
@@ -50,7 +53,8 @@ Notes to myself
 ### Compiler Books
 * Best Practical Book  Modern Compiler Implementation in C, ANDREW W. APPEL
 * Programming Language Pragmatics
-
+* Compiler Design Handbook Edition 1 Priti Shankar, Shrikant IISc
+* Compiler Design Handbook Edition 2 Priti Shankar, Shrikant IISc
 
 ## Research Papers , Review Articles
 ### Programming Lang
