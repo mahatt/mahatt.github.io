@@ -36,6 +36,7 @@ Notes to myself
 * Game Engine Architecture
 * Pattern Oriented Software Architecture
 * Working with Legacy Code
+* Git Professional Notes  (Best Book on Topic)
 
 ### Finance 
 * Financial Intelligence HBR (304)
@@ -130,13 +131,3 @@ Notes to myself
 * [VMKit a Substrate for Managed Runtime Environments    ]()
 * [Volatiles Are Miscompiled, and What to Do about It    ]()
 * [Whole-Function Vectorization    ]()
-* [SVF _ Interprocedural Static Value-Flow Analysis in LLVM   ]()
-* [TVM - Learning-based deep learning compiler   ]()
-* [Taming Undefined Behavior in LLVM   ]()
-* [Transactifying Applications Using an Open Compiler Framework   ]()
-* [Transparent Pointer Compression for LinkedList   ]()
-* [Trident  from High Level to Ckt   ]()
-* [User-Input Dependence Analysis via graph Reachability   ]()
-* [VMKit a Substrate for Managed Runtime Environments   ]()
-* [Volatiles Are Miscompiled, and What to Do about It   ]()
-* [Whole-Function Vectorization   ]()
