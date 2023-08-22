@@ -130,11 +130,36 @@ return x/32;
 ### Deterministic Time for program
 * AVOID this in Hot Path
 	+ Dynamic Allocation
+		- Data structure or Algo or data types that allocate
+		- e.g. `std::stable_sort` allocates
+		- e.g. `std::array` or `std::optional` or `std::variant` does not allocate
+		- e.g. `std::any` or `std::function` or `std::vector` allocates 
+		- Custom allocators not good eg tcmalloc  , rpmalloc for low latency
+		- Use pre-allocation 
+			+ Monotonic alloctor `std::pmr::monotonic_buffer_resource`
+			+ Pool Allocator `std::pmr::unsynchronised_pool_resource`
+			+ Frame/ Arena allocators
+			+ LockFree Allocators
 	+ Blocking call
+		- Dont use coroutines 
+		- Terms
+			+ Atomic = race free
+			+ Lock free = min one thread will make progress
+			+ Wait free = all threads will make progress
+		- No Mutex, COnditional Var or lock or semaphores!
+		- Only use `std::atomic` but not spin on it or do `std::atomic<T>::wait/notify`	
+		- checking lock free with `static_assert(std::atomic<T>::is_always_lock_free)`
+		- Can use wait free q  TODO
+		- can use try_lock
+		- can use double buffering
+
 	+ IO
+		- pre-load and lock address range
+
 	+ Exceptions
 	+ Context and Mode switch
-	+ syscall
+		-  pin hot path thread onto one cpu. No hyperthreading
+	+ syscall - No
 	+ Calling unknw code
 	+ Loops without clear bounds
 	+ Algo bounds higher than O(1)
