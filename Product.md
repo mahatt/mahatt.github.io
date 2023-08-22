@@ -1,7 +1,7 @@
- ---
+---
  layout: page
- title: Product Managment Contents
- ---
+ title: Product 
+---
  
 ### Introduction to Product Strategy
 * What is a product and its types?
@@ -12,7 +12,7 @@
 * Holistic approach to product strategy
 * Factors influencing product strategy
 
-### (Marketing) Value Creation, Value Communication and Value Delivery 
+### (Marketing) Value Creation, Value Communication and Value Delivery `DONE`
 
 * Value creation - How product is connected to customer
 * Value communication
@@ -35,7 +35,6 @@
 * Ansoff’s product market expansion grid
 * Market opportunity analysis for innovative products
 * Growth strategy and strategic planning gaps
-* Disruptive innovation case – ideaForge case study
 * Disruptive innovation when customer tend to maintain status-quo
 * Disruptive innovation when organization wants to maintain status-quo
 
@@ -52,7 +51,7 @@
 * Minimum Viable Product (MVP) approach
 * Minimum Delightful Product (MDP) approach
 
-### Market Orientation and Competitor Orientation 
+### Market Orientation and Competitor Orientation `DONE`
 * Market Segmentation
 * Target market selection
 * Defining buyers' personas
@@ -62,7 +61,7 @@
 * Product strategy to beat competition
 
 
-### (Marketing) Go-to-Market Strategy and Sales Strategy
+### (Marketing) Go-to-Market Strategy and Sales Strategy `DONE`
 * Selecting best route to market
 * Steps to develop and execute go-to-market plan
 * Managing the product launch
@@ -71,7 +70,7 @@
 * Managing sales force perception
 * Sales force compensation
 
-### (Marketing) Product Positioning and Branding
+### (Marketing) Product Positioning and Branding - `DONE`
 * What is product positioning?
 * Point of Parity and point of difference
 * What is product branding?
@@ -145,7 +144,7 @@
 * Secondary data analytics
 * Survey analytics
 
-### (Statistics) Data and Statistics for Descriptive Product Analytics
+### (Statistics) Data and Statistics for Descriptive Product Analytics `DONE`
 * Importance of statistics in Product management
 * What is descriptive product analytics?
 * Describe Basic Descriptive Statistics
@@ -200,7 +199,7 @@
 * Validation of Cluster Analysis Solution
 * Profiling of Customer Segments using Demographic and Socio-economic Variables
 
-### (Marketing) Digital Analytics: Tools and Techniques
+### (Marketing) Digital Analytics: Tools and Techniques `DONE`
 * Web Analytics and its Application in Product Management
 * Importance of Web Analytics Tool
 * A/B testing
@@ -226,7 +225,7 @@
 * Traditional and Modern Processes: Comparison
 * Product Development in B2B and B2C Industries
 
-### (Agile Managment) Understanding Agile and Lean Development 
+### (Agile Managment) Understanding Agile and Lean Development `DONE`
 * History of Lean and Lean Thinking
 * Facets of Lean Product Development
 * Lean Metrics
