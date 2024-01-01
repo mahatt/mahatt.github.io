@@ -29,10 +29,13 @@ Love Science, Applied Science and Engineering, sometimes math. ;)
  
 ### High Performance Computing
 Did Research in Compiler Technologies Implemented 4 Patents till now. 
+* Intel
+  + Working towards next-gen AVX10 enabled processor compiler
+
 * Consultant
   + As part of `Consultant Team to Automobile company`, Built accelerator for training and inference with Vitis HLS and Apache TVM 
-  + First Ever `ASIC accelerator` including DC and Soc Platforms
-  + Played Roles of `Compiler Software Engineer`
+  + my First Ever `ASIC accelerator` including DC and Soc Platforms
+  + Played Role of `Compiler Software Engineer`
 
 * AMD - Xilinx
   + Worked on `FPGA hardware  and Emulation` Technology.  
@@ -63,4 +66,3 @@ Did Research in Compiler Technologies Implemented 4 Patents till now.
 * [Dev.To](https://dev.to/maheshattarde)
 * [StackOverflow](https://stackoverflow.com/users/4021785/mahesh-attarde)
 
-Thanks for reading!

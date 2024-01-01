@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Debugging with GDB
+title:  GDB
 ---
 
 ### Posts Outside 

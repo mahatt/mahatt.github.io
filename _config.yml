@@ -2,7 +2,7 @@
 title:               Computational Matters
 tagline:             'Blog'
 description:         'Hi There,<p> I am Software Engineer with Masters in CSE, IIIT Hyderabad, Served in Startups,MNC</p> <p>Here are few thoughts logged '
-url:                 http://mahatt.github.io/
+url:                 https://mahatt.github.io/
 baseurl:             ''
 paginate:            40
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Mahesh Attarde
-  url:               http://linkedin.com/maheshattarde
+  url:               https://linkedin.com/maheshattarde
   email:             Fooling_spam_bot@gmail.com
 
 # Gems

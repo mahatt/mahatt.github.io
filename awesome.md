@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awesome List
+title: Awesome
 ---
 
 ## Compiler Folks
@@ -89,13 +89,17 @@ title: Awesome List
 ## Open Source
 * [Open Source Explorer](https://ossinsight.io/explore/)
 
+## Hardware design
+* [Game Console](https://www.copetti.org/)
+
 ## Cpp
 * [Bloomberge Large Scale C++](https://bloomberg.github.io/)
 * [Some C++ things](https://blog.the-pans.com/)
 
 * [Copy Elison](https://shaharmike.com/cpp/rvo/)
 
-
+## Compiler Jobs
+* [Compiler hiring list](https://mgaudet.github.io/CompilerJobs/)
 
 ## Bussiness
 * [Marketing For Engineers](https://github.com/goabstract/Marketing-for-Engineers)
