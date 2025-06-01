@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Notes] 2024-11-10-Floating Point Semantics in Compiler" 
+title: "[Notes] Floating Point Semantics in Compiler" 
 ---
 
 ### Floating Point Semantics
