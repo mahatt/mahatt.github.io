@@ -68,7 +68,9 @@ title: "[Notes] LLVM Machine Scheduler "
 
 Commands:
 >>> clang -mllvm -enable-misched -mllvm -enable-post-misched -mllvm -misched-postra
+
 >>> llvm-tablgen --debug-only=subtarget-emitter --print-records -I=////
+
 >>> llc -enable-misched -debug-only=machine-scheduler
 
 Reference:
@@ -79,3 +81,6 @@ llvm/include/llvm/MC/MCSchedule.h
 https://www.youtube.com/watch?v=brpomKUynEA
 class Diagram
 https://llvm.org/devmtg/2016-09/slides/Absar-SchedulingInOrder.pdf
+https://www.youtube.com/watch?v=kjufVhyuV_A&ab_channel=AhmadYasin
+https://sites.google.com/site/analysismethods/yasin-pubs
+https://github.com/andikleen/pmu-tools/wiki/toplev-manual
