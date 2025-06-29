@@ -25,5 +25,7 @@ title:  GDB
 * [GDB python scripts commands](https://github.com/vuvova/gdb-tools)
 * [python plotting in GDB](https://github.com/X-Neon/gdbplotlib)
 * [Bulk posts for GDB](https://github.com/MattPD/cpplinks/blob/master/debugging.md#software-engineering)
+* [Visual GDB in terminal- Super usecase](https://github.com/PlasmaHH/vdb/tree/master)
+* [Linux GDB](https://github.com/torvalds/linux/tree/master/scripts/gdb/linux)
 
 Happy Hacking
