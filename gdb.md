@@ -28,4 +28,12 @@ title:  GDB
 * [Visual GDB in terminal- Super usecase](https://github.com/PlasmaHH/vdb/tree/master)
 * [Linux GDB](https://github.com/torvalds/linux/tree/master/scripts/gdb/linux)
 
+
+### VSCODE plugins
+* [Text Power](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools)
+* [Text Anchor](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors)
+* [Beyond Compare](https://marketplace.visualstudio.com/items?itemName=ScooterSoftware.bcompare-vscode)
+* 
+
+
 Happy Hacking
